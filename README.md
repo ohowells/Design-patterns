@@ -7,7 +7,9 @@ effectively in the instantiation process, object-creation patterns use delegatio
 get the job done.
 
 * Abstract Factory
-- Creates an instance of several families of classes
+```
+Creates an instance of several families of classes
+```
 * Builder
 - Separates object construction from its representation
 * Factory Method
